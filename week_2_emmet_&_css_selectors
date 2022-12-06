@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="elements.css">
+    <title>Document</title>
+</head>
+<body>
+ <h1 id="Character_Classes">Character Clasess</h1>   
+
+<ul class="Divine">
+    <li>cleric1</li>
+    <li>cleric2</li>
+    <li>cleric3</li>
+    <li>cleric4</li>
+    <li>cleric5</li>
+    <li>cleric6</li>
+    <li>cleric7</li>
+    <li>cleric8</li>
+    <li>cleric9</li>
+    <li>cleric10</li>
+</ul>
+
+<ul class="Arcane">
+    <li>wizard</li>
+    <li>wizard</li>
+    <li>wizard</li>
+    <li>wizard</li>
+    <li>wizard</li>
+    <li>wizard</li>
+    <li>wizard</li>
+    <li>wizard</li>
+    <li>wizard</li>
+    <li>wizard</li>
+</ul>
+<ul class="Melee">
+    <li>barbarian</li>
+    <li>barbarian</li>
+    <li>barbarian</li>
+    <li>barbarian</li>
+    <li>barbarian</li>
+    <li>barbarian</li>
+    <li>barbarian</li>
+    <li>barbarian</li>
+    <li>barbarian</li>
+    <li>barbarian</li>
+</ul>
+<ul class="Nature">
+    <li>ranger</li>
+    <li>ranger</li>
+    <li>ranger</li>
+    <li>ranger</li>
+    <li>ranger</li>
+    <li>ranger</li>
+    <li>ranger</li>
+    <li>ranger</li>
+    <li>ranger</li>
+    <li>ranger</li>
+</ul>
+<ul class="Melee">
+    <li>fighter</li>
+    <li>fighter</li>
+    <li>fighter</li>
+    <li>fighter</li>
+    <li>fighter</li>
+    <li>fighter</li>
+    <li>fighter</li>
+    <li>fighter</li>
+    <li>fighter</li>
+    <li>fighter</li>
+</ul>
+<ul class="Arcane">
+    <li>warlock</li>
+    <li>warlock</li>
+    <li>warlock</li>
+    <li>warlock</li>
+    <li>warlock</li>
+    <li>warlock</li>
+    <li>warlock</li>
+    <li>warlock</li>
+    <li>warlock</li>
+    <li>warlock</li>
+</ul>
+<ul class="Arcane">
+    <li>sorcerer</li>
+    <li>sorcerer</li>
+    <li>sorcerer</li>
+    <li>sorcerer</li>
+    <li>sorcerer</li>
+    <li>sorcerer</li>
+    <li>sorcerer</li>
+    <li>sorcerer</li>
+    <li>sorcerer</li>
+    <li>sorcerer</li>
+</ul>
+<ul class="Divine">
+    <li>paladin</li>
+    <li>paladin</li>
+    <li>paladin</li>
+    <li>paladin</li>
+    <li>paladin</li>
+    <li>paladin</li>
+    <li>paladin</li>
+    <li>paladin</li>
+    <li>paladin</li>
+    <li>paladin</li>
+</ul>
+<ul class="Divine">
+    <li>antipaladin</li>
+    <li>antipaladin</li>
+    <li>antipaladin</li>
+    <li>antipaladin</li>
+    <li>antipaladin</li>
+    <li>antipaladin</li>
+    <li>antipaladin</li>
+    <li>antipaladin</li>
+    <li>antipaladin</li>
+    <li>antipaladin</li>
+</ul>
+<ul class="Arcane">
+    <li>bard</li>
+    <li>bard</li>
+    <li>bard</li>
+    <li>bard</li>
+    <li>bard</li>
+    <li>bard</li>
+    <li>bard</li>
+    <li>bard</li>
+    <li>bard</li>
+    <li>bard</li>
+</ul>
+<ul class="Melee">
+    <li>monk</li>
+    <li>monk</li>
+    <li>monk</li>
+    <li>monk</li>
+    <li>monk</li>
+    <li>monk</li>
+    <li>monk</li>
+    <li>monk</li>
+    <li>monk</li>
+    <li>monk</li>
+</ul>
+</body>
+</html>
