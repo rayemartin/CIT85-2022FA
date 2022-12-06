@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="code.css">
+    <title></title>
+</head>
+
+
+<body>
+<div>
+    <h1>Both the p and div elements are block-level elements</h1>
+    <p>A block display always starts a new line and takes up the full width available</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Dog_Breeds.jpg" class="dogtwo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Dog_Breeds.jpg" class="dogtwo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Dog_Breeds.jpg" class="dogtwo">
+
+</div>
+  
+<span>
+    <h1>A Span element is an inline element</h1>
+    <p>Span doesn't start a new line and takes up as much width as needed.</p> 
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Dog_Breeds.jpg" class="dogone">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Dog_Breeds.jpg" class="dogone">
+
+  </span>
+  
+</body>
+</html>
