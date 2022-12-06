@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="image_search.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <a href="https://github.com/rayemartin/CIT85-2022FA" target="_blank"> Go to Raymond's Github</a>
+
+
+ <a href="https://www.google.com/" target="_blank"> Go to Google</a>
+
+</body>
+</html>
+
