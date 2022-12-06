@@ -1,0 +1,30 @@
+.Melee {
+    color:red;
+    font-size: 5px;
+    margin-left: 5px;
+}
+
+.Divine {
+    color:orange;
+    font-size: 5x;
+    margin-left: 5px;
+}
+
+.Arcane {
+    color:blue;
+    font-size: 5px;
+    margin-left: 5px;
+}
+
+.Nature {
+    color:forestgreen;
+    font-size: 10px;
+    margin-left: 10%;
+  font-style: Times;
+}
+
+#Character_Classes{
+    color: black;
+    font-size: larger;
+    font-style: italic;
+    }
