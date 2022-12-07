@@ -1,0 +1,20 @@
+body{
+    width:80%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+p {
+    margin: 10px;
+}
+
+p::first-letter{
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    line-height: normal;
+}
+
+p::first-line{
+    color:aqua;
+    font-weight: 700;
+}
