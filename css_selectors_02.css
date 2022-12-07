@@ -1,0 +1,42 @@
+body {
+    font-size: 36px;
+ }
+
+li:first-child {
+    color: red;
+}
+
+li:last-child {
+    color: blue;
+}
+
+
+
+
+table,tr,td{
+    width: 10%;
+    border: 1px solid black;
+}
+
+tr:nth-child(even) {
+    color: green;
+}
+
+tr:nth-child(odd) {
+    color: violet;
+}
+
+tr:nth-child(3) {
+    color: yellow;
+}
+
+tr:nth-last-child(2n+1) {
+    color: orange;
+}
+
+
+
+
+article:only-child {
+    color: purple;
+}
