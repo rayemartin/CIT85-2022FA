@@ -1,0 +1,16 @@
+/* Link Visited Hover Active */
+a:link {
+    color: blueviolet;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: yellow;
+}
