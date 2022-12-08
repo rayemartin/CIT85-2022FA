@@ -1,0 +1,26 @@
+html {
+    font-size:1rem;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    border: 3px dotted blue;
+    border-radius: 40px;
+    display: inline-block;
+
+}
+
+a{
+    padding: 20px;
+    border: 1px double solid green;
+    border-radius: 40px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: violet;
+}
