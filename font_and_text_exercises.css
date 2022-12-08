@@ -1,0 +1,64 @@
+/*To use these all in a single webpage, each needs to be applied to a specific paragraph*/
+
+/*Generic serif font*/
+
+p1{
+    font-family: serif;
+}
+
+/*Generic sans-serif*/
+p2{
+    font-family: sans-serif;
+}
+
+/*Google Fonts*/
+
+p3{
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+h1{
+    font-weight: 400;
+}
+
+p{
+    font-weight: 900;
+}
+
+/*Using Italic*/
+p4{
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+/*Letter spacing*/
+p5{
+    letter-spacing: 1rem;
+}
+
+/*Adding Shadow*/
+/*Shadows operate on a XYZ grid, you need to position the X, then Y, then Z, then select color*/
+h4{
+    text-shadow: 2px 5px 10px blue;
+}
+
+/*Removing an anchor tag:: this is for URLs*/
+a{
+    text-decoration: none;
+}
+/*add underline when someone hovers over the link*/
+a:hover{
+    text-decoration: underline;
+}
+
+
+/*Show irrevant text by lining out the text*/
+p6{
+    text-decoration: line-through;
+}
+
+/*indenting the first line of a paragraph*/
+p{
+    text-indent: 50px;
+}
+
