@@ -1,0 +1,20 @@
+html{
+    color:white;
+
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    border: 10px solid red;
+    background-image: url("https://static5.depositphotos.com/1037168/447/i/600/depositphotos_4473833-stock-photo-palm-tree-hanging-over-stunning.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p{
+    font-size:4rem;
+}
+
